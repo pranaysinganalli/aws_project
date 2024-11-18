@@ -1,0 +1,9 @@
+﻿flask
+flask_wtf
+pyttsx3
+thread6
+wtforms
+opencv-python
+pillow
+onnxruntime
+git+https://github.com/trainyolo/YOLO-ONNX.git
